@@ -1,5 +1,14 @@
 # union_bank_app_clone
-UnionBank Online app clone. This is just a clone for another banking app. This puts your bank in the palm of your hand. You don’t have to put your life on hold, when you can bank securely whenever you want to, from wherever you want
+UnionBank Online app clone. This is just a clone for another banking app. This puts your bank in the palm of your hand. You don’t have to put your life on hold, when you can bank securely whenever you want to, from wherever you want.
+
+
+*NOTES* ⚠️ 
+```
+It is created solely for educational purposes and coding challenges.
+This project is not intended for any illegal use or distribution.
+All rights to the original app belong to their respective owners.
+Feel free to customize it to better fit your needs.
+```
 
 
 ## Screenshots
